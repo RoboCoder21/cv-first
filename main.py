@@ -8,7 +8,7 @@ detector=HandDetector(detectionCon=0.8, maxHands=1)
 
 space_key_pressed=space_pressed
 
-time.sleep(2.0)
+time.sleep(3.0)
 
 current_key_pressed = set()
 
